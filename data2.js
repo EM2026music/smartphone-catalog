@@ -132,7 +132,7 @@ window.PHONES.push(
  pros:["159gと圧倒的に軽い","イヤホンジャックあり","5000mAhで電池持ちが非常にいい"],
  cons:["6.1型で今より小さくなる","カメラは基準機より落ちる","処理性能はSC-51Aより下"],
  verdict:"軽さと電池持ちが取り柄。今回の条件（大画面・カメラ・処理性能）とは方向が違う。",
- img:null},
+ img:"xperia10v"},
 
 {slug:"aquossense8",name:"AQUOS sense8",variant:"SH-54D",maker:"SHARP",carrier:"docomo",year:"2023年11月",tier:"same",
  price:{low:31800,high:34000,note:"にこスマ 31,800円〜"},
@@ -151,7 +151,7 @@ window.PHONES.push(
  pros:["更新が2028年10月までと最長","159gと非常に軽い","イヤホンジャックあり","5000mAhで電池持ちがいい","処理性能もSC-51Aに迫る"],
  cons:["6.1型で今より小さくなる","望遠レンズなし","ワイヤレス充電非対応"],
  verdict:"長く安心して使える度合いは今回いちばん。ただし画面が小さくなり、カメラも劇的には変わらない。",
- img:null},
+ img:"aquossense8"},
 
 {slug:"iphone12",name:"iPhone 12",variant:"A2402",maker:"Apple",carrier:"全キャリア",year:"2020年10月",tier:"same",
  price:{low:35800,high:42000,note:"にこスマ 35,800円〜"},
@@ -326,7 +326,7 @@ window.PHONES.push(
  pros:["6.7型とSC-51Aよりひと回り大きい画面","カメラ・処理性能はSC-51Aとほぼ同一で違和感がない","ドコモ純正で安心"],
  cons:["更新はSC-51Aと同時に終了済み","186gとSC-51Aよりやや重い","中古の流通量が少なく相場が不安定","イヤホンジャックなし"],
  verdict:"「中身は変えず画面だけ大きくしたい」という要望にいちばん忠実に応える一台。SC-51Aの兄弟機なので操作感が変わらない安心感がある。ただし流通が少なく、価格と在庫は店舗ごとに要確認。",
- img:null},
+ img:"galaxys20plus"},
 
 {slug:"xperia1ii",name:"Xperia 1 II",variant:"SO-51A",maker:"Sony",carrier:"docomo",year:"2020年6月",tier:"main",
  price:{low:16800,high:19800,note:"にこスマ 20,800円〜／中古相場 16,800〜19,800円"},
@@ -345,7 +345,7 @@ window.PHONES.push(
  pros:["中古1万円台後半でXperiaの4K有機EL＋レンズ3本","イヤホンジャックあり","181gと大画面機では軽い"],
  cons:["画面が60Hz（滑らかさは今のS20系と同等どまり）","更新終了が2022年と非常に古い","望遠が固定70mmのみで1 III以降より簡素"],
  verdict:"予算を切り詰めつつイヤホンジャックとレンズ3本を維持したい場合の最安クラス。ただし更新終了は歴代でも早く、あくまで「安さ優先」の選択。",
- img:null},
+ img:"xperia1ii"},
 
 {slug:"xperia5ii",name:"Xperia 5 II",variant:"SO-52A",maker:"Sony",carrier:"docomo",year:"2020年10月",tier:"same",
  price:{low:15800,high:27280,note:"イオシス 15,800円（Cランク）〜／中古相場 15,189〜27,280円"},
@@ -364,7 +364,7 @@ window.PHONES.push(
  pros:["163gと軽い","1.5〜2万円台でレンズ3本＋イヤホンジャック","小型で片手操作に強い"],
  cons:["6.1型で今より画面が小さくなる","画面60Hzで滑らかさは向上しない","更新終了が2022年と古い"],
  verdict:"価格の安さと軽さは魅力だが、画面サイズの条件からは外れる。大画面よりコンパクトさを取るなら検討の余地あり。",
- img:null},
+ img:"xperia5ii"},
 
 {slug:"oppofindx3pro",name:"OPPO Find X3 Pro",variant:"OPG03（au/UQ版）",maker:"OPPO",carrier:"au／UQ mobile／SIMフリー",year:"2021年7月",tier:"main",
  price:{low:16000,high:40480,note:"価格差が大きい。中古相場 15,980〜40,480円（状態・型番で幅あり）"},
@@ -402,6 +402,6 @@ window.PHONES.push(
  pros:["1インチセンサー機で唯一イヤホンジャックあり","処理性能は予算内トップクラス","更新も2028年ごろまで長い"],
  cons:["予算の上限に近い（34,800円〜だが相場は4万円台）","超広角・望遠レンズなし（実質単眼）","212gと重い","ワイヤレス充電非対応"],
  verdict:"AQUOS R7の「1インチだがジャックあり」路線を、処理性能と更新期間を強化して受け継いだ機種。価格は予算の上限に近いが、他の1インチ機と違いイヤホンジャックを妥協しなくていい。",
- img:null}
+ img:"aquosr8pro"}
 
 );
