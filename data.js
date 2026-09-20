@@ -51,7 +51,7 @@ window.PHONES = [
  pros:["予算内でいちばんカメラが強い","6.7型の大画面＋本物の光学5倍","超広角も望遠もそろう","撮ったあとの編集機能が優秀"],
  cons:["212gとかなり重い","ドコモの5G n79 に非対応","イヤホンジャックなし"],
  verdict:"「カメラが物足りない」への回答としては本命。SC-51Aから見て暗所・望遠・人物のどれも明確に上で、撮影後の編集も強い。引き換えは212gの重さと n79 非対応。",
- img:"pixel7pro"},
+ img:null},
 
 {slug:"aquosr7",name:"AQUOS R7",variant:"SH-52C",maker:"SHARP",carrier:"docomo",year:"2022年7月",tier:"pick",
  price:{low:30848,high:40000,note:"ゲオ 30,848円（Bランク）"},
@@ -146,7 +146,7 @@ window.PHONES = [
  pros:["7 Pro に近いカメラが3万円台前半","6.7型の大画面＋光学4倍"],
  cons:["セキュリティ更新が2026年10月で終了（ほぼ目前）","210gと重い","n79非対応","指紋センサーの反応が鈍いという声が多い"],
  verdict:"カメラだけ見ればお買い得だが、更新終了が目前。長く使う前提なら 7 Pro を選ぶべきで、これは1〜2年の割り切り用。",
- img:"pixel6pro"},
+ img:null},
 
 {slug:"xperia1v",name:"Xperia 1 V",variant:"SO-51D",maker:"Sony",carrier:"docomo",year:"2023年6月",tier:"pick",
  price:{low:38800,high:61800,note:"ムスビー 38,800円〜（予算上限ぎりぎり）"},

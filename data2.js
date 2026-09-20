@@ -18,7 +18,7 @@ window.PHONES.push(
  pros:["カメラは基準機より明確に上","更新が2027年10月まで残る"],
  cons:["6.3型で画面がほとんど広がらない","望遠レンズなし","n79非対応"],
  verdict:"写りは良いが、画面を大きくしたいという条件に対しては 0.1 型しか増えない。同じ価格なら 7 Pro を選びたい。",
- img:"pixel7"},
+ img:null},
 
 {slug:"pixel7a",name:"Pixel 7a",variant:"G0DZQ ほか",maker:"Google",carrier:"SIMフリー／docomo／au",year:"2023年5月",tier:"same",
  price:{low:27800,high:36980,note:"にこスマ 27,800円〜／相場 36,980円"},
