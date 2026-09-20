@@ -91,7 +91,7 @@ window.PHONES = [
  verdict:"イヤホンジャックを残したまま大画面とレンズ3本をそろえられる希少な一台。幅71mmは大画面機で最細クラスで、手の小さい人でも扱いやすい。ただし“何も考えず綺麗に撮れる”タイプではない。",
  img:"xperia1iv"},
 
-{slug:"galaxya54",name:"Galaxy A54 5G",variant:"SC-53D",maker:"Samsung",carrier:"docomo",year:"2023年6月",tier:"pick",
+{slug:"galaxya54",name:"Galaxy A54 5G",variant:"SC-53D",maker:"Samsung",carrier:"docomo",year:"2023年6月",tier:"main",
  price:{low:25800,high:34276,note:"イオシス 25,800円（Bランク）〜相場 34,276円"},
  screen:{inch:6.4,res:"2340×1080",panel:"Super AMOLED",hz:120},
  body:{w:76.7,h:158.2,d:8.2,weight:201},
@@ -148,7 +148,7 @@ window.PHONES = [
  verdict:"カメラだけ見ればお買い得だが、更新終了が目前。長く使う前提なら 7 Pro を選ぶべきで、これは1〜2年の割り切り用。",
  img:"pixel6pro"},
 
-{slug:"xperia1v",name:"Xperia 1 V",variant:"SO-51D",maker:"Sony",carrier:"docomo",year:"2023年6月",tier:"main",
+{slug:"xperia1v",name:"Xperia 1 V",variant:"SO-51D",maker:"Sony",carrier:"docomo",year:"2023年6月",tier:"pick",
  price:{low:38800,high:61800,note:"ムスビー 38,800円〜（予算上限ぎりぎり）"},
  screen:{inch:6.5,res:"3840×1644（4K）",panel:"有機EL",hz:120},
  body:{w:71,h:165,d:8.3,weight:187},

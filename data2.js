@@ -309,7 +309,7 @@ window.PHONES.push(
 
 /* ---- ここから新規追加（2026-09-21・妻からのGPT情報の裏取りで発見） ---- */
 
-{slug:"galaxys20plus",name:"Galaxy S20+ 5G",variant:"SC-52A",maker:"Samsung",carrier:"docomo",year:"2020年6月",tier:"pick",
+{slug:"galaxys20plus",name:"Galaxy S20+ 5G",variant:"SC-52A",maker:"Samsung",carrier:"docomo",year:"2020年6月",tier:"main",
  price:{low:35000,high:55000,note:"相場情報が少なく幅あり。実売は要確認（2026年9月時点で在庫希少）"},
  screen:{inch:6.7,res:"3200×1440",panel:"Dynamic AMOLED 2X",hz:120},
  body:{w:74,h:162,d:9.1,weight:186},
@@ -385,7 +385,7 @@ window.PHONES.push(
  verdict:"超広角の画質にこだわるなら面白い選択肢。バンドは対応しているが、au向け端末をドコモで使う形になるため、購入前に対応バンドの再確認をおすすめする。",
  img:null},
 
-{slug:"aquosr8pro",name:"AQUOS R8 pro",variant:"SH-51D",maker:"SHARP",carrier:"docomo",year:"2023年6月",tier:"main",
+{slug:"aquosr8pro",name:"AQUOS R8 pro",variant:"SH-51D",maker:"SHARP",carrier:"docomo",year:"2023年6月",tier:"pick",
  price:{low:34800,high:57980,note:"イオシス 34,800円〜（Cランク）／相場は40,000円台が中心"},
  screen:{inch:6.6,res:"2730×1260",panel:"Pro IGZO OLED",hz:240},
  body:{w:75,h:162,d:9.4,weight:212},
